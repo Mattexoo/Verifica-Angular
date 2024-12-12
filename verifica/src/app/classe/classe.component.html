@@ -1,0 +1,24 @@
+<div *ngIf="nomeClasse">
+    <h2>Classe selezionata: {{ nomeClasse }}</h2>
+    <button class="btn btn-primary mb-3" (click)="visualizzaStudenti(nomeClasse)">VISUALIZZA STUDENTI</button>
+    <button class="btn btn-primary mb-3" (click)="calcolaPremi(nomeClasse)">VISUALIZZA TOTALE PREMI CLASSE</button>
+</div>
+<div class="row">
+    <div *ngFor="let studente of studenti" class="card m-2" style="width: 18rem;">
+        <img class="card-img-top" [src]="studente.img" alt="{{ studente.nome }}">
+        <div class="card-body">
+        <h5 class="card-title">{{ studente.nome }}</h5>
+        <p class="card-text">
+            Residenza: {{ studente.residenza }} <br>
+        </p>
+        <p *ngFor="let sport of studente.sports">
+            Sport: {{ sport }}
+        </p>
+        <p>
+            Premi: {{studente.premi}}
+        </p>
+        </div>
+    </div>
+</div>
+  
+  

@@ -1,0 +1,14 @@
+<div style="display: flex;">
+    <div *ngFor="let classe of registro | keyvalue">
+        <button class="btn btn-primary m-2" (click)="chiamaClasse(classe.key)">
+          {{ classe.key }}
+        </button>
+    </div>
+</div>
+<h3 *ngIf="totalePremiClasse != 0">
+    Premi classe: {{ totalePremiClasse }}
+</h3>
+<classe [nomeClasse]="sClasse" (totalePremi)="aggiornaTotalePremi($event)"></classe>
+
+  
+  
