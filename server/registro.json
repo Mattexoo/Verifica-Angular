@@ -1,0 +1,236 @@
+{
+"4A Info": [
+    {
+      "id": 1,
+      "nome": "Rossi Mario",
+      "residenza": "Alba",
+      "img": "img1",
+      "sports": [
+        "basket",
+        "volley",
+        "nuoto"
+      ],
+      "pwd": "pippo",
+      "mail": "pippo@vallauri.edu",
+      "dob": "2001-09-01",
+      "genere": "M",
+      "premi": 12
+    },
+    {
+      "id": 2,
+      "nome": "Abrate Cinzia",
+      "residenza": "Bra",
+      "img": "img2",
+      "sports": [
+        "calcio",
+        "trekking",
+        "nuoto",
+        "volley"
+      ],
+      "pwd": "pluto",
+      "mail": "pluto@vallauri.edu",
+      "dob": "2001-09-02",
+      "genere": "M",
+      "premi": 15
+    },
+    {
+      "id": 3,
+      "nome": "Zolfo Roberto",
+      "residenza": "Fossano",
+      "img": "img3",
+      "sports": [
+        "calcio",
+        "atletica"
+      ],
+      "pwd": "minnie",
+      "mail": "minnie@vallauri.edu",
+      "dob": "2001-09-03",
+      "genere": "F",
+      "premi": 20
+    },
+    {
+      "id": 4,
+      "nome": "Carso Riccardo",
+      "residenza": "Genola",
+      "img": "img4",
+      "sports": [
+        "ciclismo",
+        "nuoto"
+      ],
+      "pwd": "paperino",
+      "mail": "paperino@vallauri.edu",
+      "dob": "2001-09-04",
+      "genere": "M",
+      "premi": 13
+    }],
+"5A Info":[{
+      "id": 5,
+      "nome": "Durante Gina",
+      "residenza": "Cuneo",
+      "img": "img5",
+      "sports": [
+        "nuoto",
+        "volley"
+      ],
+      "pwd": "jenny",
+      "mail": "jenny@vallauri.edu",
+      "dob": "2001-09-05",
+      "genere": "F",
+      "premi": 7
+    },
+    {
+      "id": 6,
+      "nome": "Lillo Roberta",
+      "residenza": "Genola",
+      "img": "img6",
+      "sports": [
+        "ciclismo",
+        "danza",
+        "trekking"
+      ],
+      "pwd": "sonny",
+      "mail": "sonny@vallauri.edu",
+      "dob": "2001-09-06",
+      "genere": "F",
+      "premi": 12,
+      "patente": true
+    },
+    {
+      "id": 7,
+      "nome": "Rosa Russo",
+      "residenza": "Alba",
+      "img": "img7",
+      "sports": [
+        "basket",
+        "atletica"
+      ],
+      "pwd": "fanny",
+      "mail": "fanny@vallauri.edu",
+      "dob": "2001-09-07",
+      "genere": "M",
+      "premi": 15
+    }],
+"5D Info":[    {
+      "id": 8,
+      "nome": "Ringhio Jessica",
+      "residenza": "Fossano",
+      "img": "img8",
+      "sports": [
+        "basket",
+        "calcio"
+      ],
+      "pwd": "jmmy",
+      "mail": "jmmy@vallauri.edu",
+      "dob": "2001-09-08",
+      "genere": "M",
+      "premi": 22
+    },
+    {
+      "id": 9,
+      "nome": "Zuzio Francesca",
+      "residenza": "Bra",
+      "img": "img9",
+      "sports": [
+        "tennis",
+        "nuoto"
+      ],
+      "pwd": "sandy",
+      "mail": "sandy@vallauri.edu",
+      "dob": "2001-09-09",
+      "genere": "F",
+      "premi": 27,
+      "patente": true
+    },
+    {
+      "id": 10,
+      "nome": "Paloma Nicola",
+      "residenza": "Cuneo",
+      "img": "img10",
+      "sports": [
+        "tennis",
+        "boxe"
+      ],
+      "pwd": "sally",
+      "mail": "sally@vallauri.edu",
+      "dob": "2001-09-10",
+      "genere": "F",
+      "premi": 10
+    },
+    {
+      "id": 11,
+      "nome": "Erta Lalla",
+      "residenza": "Alba",
+      "img": "img11",
+      "sports": [
+        "sollevamento pesi",
+        "judo"
+      ],
+      "pwd": "emma",
+      "mail": "emma@vallauri.edu",
+      "dob": "2001-09-11",
+      "genere": "F",
+      "premi": 20
+    }],
+"4D Info":[    {
+      "id": 12,
+      "nome": "Sanno Anna",
+      "residenza": "Fossano",
+      "img": "img12",
+      "sports": [
+        "judo",
+        "ginnastica artisitica"
+      ],
+      "pwd": "ronny",
+      "mail": "ronny@vallauri.edu",
+      "dob": "2001-09-12",
+      "genere": "M",
+      "premi": 18,
+      "patente": true
+    },
+    {
+      "id": 13,
+      "nome": "Ertassa Erika",
+      "residenza": "Genola",
+      "img": "img13",
+      "sports": [
+        "judo",
+        "ginnastica artisitica"
+      ],
+      "pwd": "johan",
+      "mail": "johan@vallauri.edu",
+      "dob": "2001-09-13",
+      "genere": "M",
+      "premi": 16
+    },
+    {
+      "id": 14,
+      "nome": "Bosio Sandra",
+      "residenza": "Bra",
+      "img": "img14",
+      "sports": [
+        "judo",
+        "tuffi"
+      ],
+      "pwd": "jonny",
+      "mail": "jonny@vallauri.edu",
+      "dob": "2001-09-14",
+      "genere": "M",
+      "premi": 15
+    },
+    {
+      "id": 15,
+      "nome": "Marte Martina",
+      "residenza": "Fossano",
+      "img": "img15",
+      "sports": [
+        "atletica",
+        "nuoto"
+      ],
+      "pwd": "",
+      "mail": "cindy@vallauri.edu",
+      "dob": "2001-09-15",
+      "genere": "F",
+      "premi": 23
+    }
+  ]
+  }
